@@ -10,4 +10,6 @@ Search functionallity.
 Trending videos functionallity
 And much more
 
+Soon this app will be presenting on my portfolio page.
+
 ![image](https://user-images.githubusercontent.com/12703606/123561632-e7015080-d7a9-11eb-8ad5-8c4d2d097e78.png)
